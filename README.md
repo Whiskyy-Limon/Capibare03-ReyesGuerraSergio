@@ -25,3 +25,22 @@ git clone https://github.com/Whiskyy-Limon/ExamenFinal
 cd ExamenFinal
 npm install
 npm run dev
+
+
+🌍 Enlaces de Entrega
+🔗 GitHub: https://github.com/Whiskyy-Limon/ExamenFinal
+
+🌐 Deploy Vercel: https://examen-final-mauve.vercel.app/
+
+📹 Video: https://youtu.be/ENLACE-AQUI
+
+
+
+
+---
+
+### 📹 ¿Te ayudo con el guion para el video de YouTube?
+
+Puedo darte un texto para grabarlo fácilmente en 2 minutos, paso por paso.
+
+¿Quieres que te lo escriba ahora mismo?
