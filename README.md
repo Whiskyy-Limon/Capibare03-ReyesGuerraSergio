@@ -1,8 +1,8 @@
-# Examen Final – Mini SPA en React ⚛️
+Examen Final – Mini SPA en React 
 
-SPA construida con React 19 + Vite que consume la API pública de **Rick and Morty**. Incluye navegación, estado global con Zustand, contacto validado y diseño responsivo con Bootstrap.
+SPA construida con React 19 + Vite que consume la API pública de Rick and Morty
 
-## 🛠️ Tecnologías Usadas
+Tecnologías Usadas
 
 - React 19 + Vite
 - Zustand
@@ -11,36 +11,16 @@ SPA construida con React 19 + Vite que consume la API pública de **Rick and Mor
 - React Toastify
 - Bootstrap
 
-## 🧪 Funcionalidades
+Instalación Local
 
-- Ruta `/` → Vista previa de personajes
-- Ruta `/list` → Listado completo + buscador
-- Ruta `/contact` → Formulario validado y con toast
-- API Rick and Morty: https://rickandmortyapi.com/api/character
-
-## ⚙️ Instalación Local
-
-```bash
-git clone https://github.com/Whiskyy-Limon/ExamenFinal
-cd ExamenFinal
+git clone https://github.com/Whiskyy-Limon/Capibare03-ReyesGuerraSergio.git
+cd Capibare03-ReyesGuerraSergio
 npm install
 npm run dev
 
 
-🌍 Enlaces de Entrega
-🔗 GitHub: https://github.com/Whiskyy-Limon/ExamenFinal
+Enlaces de Entrega
+GitHub: https://github.com/Whiskyy-Limon/Capibare03-ReyesGuerraSergio.git
 
-🌐 Deploy Vercel: https://examen-final-mauve.vercel.app/
-
-📹 Video: https://youtu.be/ENLACE-AQUI
-
-
-
-
----
-
-### 📹 ¿Te ayudo con el guion para el video de YouTube?
-
-Puedo darte un texto para grabarlo fácilmente en 2 minutos, paso por paso.
-
-¿Quieres que te lo escriba ahora mismo?
+Este es el video que debi mandarle profesor
+Video: https://youtu.be/K6kDXKgd5Sg
